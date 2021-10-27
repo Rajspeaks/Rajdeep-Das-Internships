@@ -1,7 +1,7 @@
 # Rajdeep-Das-Internships
 All Internships done by Rajdeep Das: Letters, Certificates etc.
 
-<code> Not all documents have benn uploaded... In progress 30% </code>
+<code> Not all documents have been uploaded... In progress 30% </code>
 ### Technical Internships at:
 1. Suven Consultants & Technology Private Limited
 2. The Sparks Foundation
